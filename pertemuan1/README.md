@@ -38,6 +38,7 @@
 <img width="1326" height="387" alt="Screenshot 2025-09-22 153042" src="https://github.com/user-attachments/assets/362cb2ed-e68e-432c-830c-fef2e2d25552" />
 
 12. **Cek GitHub dan selesai**
+<img width="2879" height="1725" alt="Screenshot 2025-09-22 153940" src="https://github.com/user-attachments/assets/e8408511-b15c-4003-b3f3-49d9e0347c12" />
 
 ---
 ##
