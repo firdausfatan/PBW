@@ -5,7 +5,7 @@
 - **NPM**   : 4523210049
 ---
 
-## Langkah-Langkah Instalasi Laragon
+## Langkah-Langkah Instalasi Laragon & Membuat Form Pendaftaran
 
 1. **Download Laragon dan install**  
 <img width="2879" height="1718" alt="image" src="https://github.com/user-attachments/assets/d3ac3790-4d65-4b62-b126-655795df8dc3" />
@@ -18,6 +18,20 @@
 
 4. **Di dalam folder C:\laragon\www, buat sebuah folder baru bernama praktikum1.**
 <img width="2089" height="1109" alt="image" src="https://github.com/user-attachments/assets/047b1148-06b0-4279-a980-64c95655e47d" />
+
+## Membuat Form Pendaftaran menggunakan PHP
+
+1. **Menambahkan kode PHP
+<img width="1298" height="1511" alt="image" src="https://github.com/user-attachments/assets/d6894826-012b-4d06-9795-23cc8835e412" />
+
+2. **Menambahkan kode HTML
+<img width="1260" height="1195" alt="Screenshot 2025-09-27 003055" src="https://github.com/user-attachments/assets/4374e68d-7ce3-49a5-9c33-1303950bc5d3" />
+
+3. **Menjalankan program yang sudah dibuat
+<img width="1566" height="1215" alt="image" src="https://github.com/user-attachments/assets/68635003-4c15-44e3-b3a7-e106b752eca6" />
+
+4. **Tampilan setelah ada yang mengisi
+<img width="1866" height="1171" alt="image" src="https://github.com/user-attachments/assets/e1962511-28b2-405f-a1cd-e9a1ca3ae0cc" />
 
 ---
 ##
